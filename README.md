@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `44`
+高速节点数量: `45`
 <details>
   <summary>展开复制节点</summary>
 
@@ -35,6 +35,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#05-0002-SK
     trojan://tunnel-astrovpn_official927@193.124.46.134:8441?allowInsecure=1&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#05-0020-TR
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#05-0118-AE
+    trojan://WyRE1b2elC@map.wimax.cc:8443?allowInsecure=1&sni=map.wimax.cc#05-0120-US
     vmess://eyJ2IjoiMiIsInBzIjoiMDUtMDEzMi1ERSIsImFkZCI6IjU3LjEyOS4yNC4xMzEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OWRhZGQzYy1mM2NmLTQ4NjgtYmM2Yi1hNjFjYjA0OWFiMWI@autf.cokecloud.top:18071#06-0028-CN
     vmess://eyJ2IjoiMiIsInBzIjoiMDYtMDAyOS1DTiIsImFkZCI6ImZyZy5jb2tlY2xvdWQudG9wIiwicG9ydCI6IjEzNjQ2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ5ZGFkZDNjLWYzY2YtNDg2OC1iYzZiLWE2MWNiMDQ5YWIxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImZyZy5jb2tlY2xvdWQudG9wIiwidGxzIjoiIn0=
@@ -51,7 +52,7 @@ Fork from TopFreeProxies.
     trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#06-0045-SG
     vmess://eyJ2IjoiMiIsInBzIjoiMDYtMDA0OC1KUCIsImFkZCI6Ind3dy50aWt0b2suY29tLmpwNC52aWVmYXN0Lm5ldCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ZTc2NzY3ZC00YmZhLTRmMDQtYTgwMC00MmUyZjYzYWZlZDIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZWZhc3QiLCJob3N0Ijoid3d3LnRpa3Rvay5jb20uanA0LnZpZWZhc3QubmV0IiwidGxzIjoiIn0=
     trojan://juzi@154.29.155.249:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&ws=1&wspath=%2525252F%2525253Fed%2525253D2560#06-0052-US
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#08-0055-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#08-0055-USss%2F%2FYWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1%4077.110.110.240443%2323-0066-AT
     vmess://eyJ2IjoiMiIsInBzIjoiMDgtMDA1Ni1ISyIsImFkZCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOTNmYjY5ZmMtNzdjZi0xMWVlLTg1ZWUtZjIzYzkxMzY5ZjJkIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMWU0MjYwNDYtdDBmZHMwLXQxMmNuai0xb2w5Ny5oay5wNXB2LmNvbSIsInRscyI6IiJ9
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#08-0058-NL
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#08-0059-VN
@@ -79,11 +80,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `48`
+合并节点总数: `47`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [clashnode](https://github.com/imyaoxp/clashnode), 节点数量: `48`
+- [clashnode](https://github.com/imyaoxp/clashnode), 节点数量: `47`
 
 
 ## 仓库声明
