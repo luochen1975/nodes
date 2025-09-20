@@ -57,6 +57,7 @@ proxies:
   - {name: 05-0002-SK, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: 05-0020-TR, server: 193.124.46.134, port: 8441, type: trojan, password: tunnel-astrovpn_official927, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, skip-cert-verify: true, udp: true}
   - {name: 05-0118-AE, server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: 05-0120-US, server: map.wimax.cc, port: 8443, type: trojan, password: WyRE1b2elC, sni: map.wimax.cc, skip-cert-verify: true, udp: true}
   - {name: 05-0132-DE, server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkvws}, udp: true}
   - {name: 06-0028-CN, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 49dadd3c-f3cf-4868-bc6b-a61cb049ab1b, udp: true}
   - {name: 06-0029-CN, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 49dadd3c-f3cf-4868-bc6b-a61cb049ab1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: frg.cokecloud.top}}, udp: true}
@@ -73,7 +74,7 @@ proxies:
   - {name: 06-0045-SG, server: 38.180.249.177, port: 8443, type: trojan, password: installshield, sni: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, skip-cert-verify: true, udp: true}
   - {name: 06-0048-JP, server: www.tiktok.com.jp4.viefast.net, port: 80, type: vmess, uuid: 9e76767d-4bfa-4f04-a800-42e2f63afed2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /viefast, headers: {Host: www.tiktok.com.jp4.viefast.net}}, udp: true}
   - {name: 06-0052-US, server: 154.29.155.249, port: 443, type: trojan, password: juzi, sni: juzi8186-sr1.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252F%25253Fed%25253D2560", headers: {Host: juzi8186-sr1.pages.dev}}, udp: true}
-  - {name: 08-0055-US, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, udp: true}
+  - {name: 08-0055-USss//YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240443#23-0066-AT, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, udp: true}
   - {name: 08-0056-HK, server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com}}, udp: true}
   - {name: 08-0058-NL, server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: 08-0059-VN, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true}
@@ -117,6 +118,7 @@ proxy-groups:
       - 05-0002-SK
       - 05-0020-TR
       - 05-0118-AE
+      - 05-0120-US
       - 05-0132-DE
       - 06-0028-CN
       - 06-0029-CN
@@ -133,7 +135,7 @@ proxy-groups:
       - 06-0045-SG
       - 06-0048-JP
       - 06-0052-US
-      - 08-0055-US
+      - 08-0055-USss//YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240443#23-0066-AT
       - 08-0056-HK
       - 08-0058-NL
       - 08-0059-VN
@@ -253,7 +255,7 @@ proxy-groups:
     proxies:
       - 06-0035-DE
       - 06-0045-SG
-      - 08-0055-US
+      - 08-0055-USss//YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240443#23-0066-AT
       - 08-0135-MD
       - 23-0065-AT
       - 23-0095-AT
@@ -263,6 +265,7 @@ proxy-groups:
     interval: 120
     tolerance: 100
     proxies:
+      - 08-0055-USss//YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240443#23-0066-AT
       - 08-0056-HK
       - 08-0136-PY
       - 23-0076-CH
@@ -304,6 +307,7 @@ proxy-groups:
     proxies:
       - 05-0000-US
       - 05-0020-TR
+      - 05-0120-US
       - 06-0030-CN
       - 06-0040-HK
       - 23-0070-DE
