@@ -53,8 +53,6 @@ sniffer:
     - Mijia Cloud
 proxies:
   - {name: 05-0002-HK, server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com}}, udp: true}
-  - {name: 05-0004-CN, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: v29.heduian.link}}, udp: true}
-  - {name: 05-0006-US, server: 38.12.83.217, port: 30002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 05-0007-RELAY, server: 92.243.75.49, port: 2087, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252F", headers: {Host: hsdgbuys.pages.dev}}, udp: true}
   - {name: 05-0012-DE, server: 57.129.28.64, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkvws}, udp: true}
   - {name: 05-0020-CH, server: ch1.opensocks.site, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: N2YzN, udp: true}
@@ -64,6 +62,7 @@ proxies:
   - {name: 06-0030-RU, server: ru.fastsoonlink.com, port: 40031, type: ss, cipher: chacha20-ietf-poly1305, password: 9177de1a-aeff-43f1-93a6-7dd08a2fdc41, udp: true}
   - {name: 06-0034-NL, server: 5.255.102.41, port: 17590, type: trojan, password: 02XtoczO7V, sni: mooshali.arshiacomplus.dpdns.org, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252Fhishhhh123", headers: {Host: mooshali.arshiacomplus.dpdns.org}}, udp: true}
   - {name: 06-0036-SE, server: 45.91.171.116, port: 443, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, sni: sto.freeguard.org, skip-cert-verify: true, udp: true}
+  - {name: 06-0037-US, server: toaster.isquirrel.net, port: 443, type: trojan, password: 3ZFDxASRw0XIcKYFlp4RSCeSwA8ap7lEAzZB7uNnO38yDYOzDe3p23CxF0OlTx6YSK3j3, skip-cert-verify: true, udp: true}
   - {name: 06-0038-US, server: blength.appagent.net, port: 18332, type: trojan, password: 0C3YaEDx46ODTFTcaF8lXlZ3zeqSlF33wZagexzRjIyODa8RDwp8XSCO93ygCSYcSYABA, skip-cert-verify: true, udp: true}
   - {name: 06-0039-US, server: kasheet.appagent.net, port: 18333, type: trojan, password: B3AO9XlcTxaIATp08S29pS6luwZ8C4qDFzaCFYEDDSA5YDeKZAy3e2ZXRe73zIpxwByN7, skip-cert-verify: true, udp: true}
   - {name: 06-0040-US, server: sirens.isquirrel.net, port: 28334, type: trojan, password: RzFSy3laClaxnYCcO3jBEpYgDyZx2CO78IC3X46ATFD73RSSZZTx8yCOKYDOqeD8pSeRa, skip-cert-verify: true, udp: true}
@@ -83,6 +82,7 @@ proxies:
   - {name: 23-0053-AT, server: 77.110.110.240, port: 443, type: ss, cipher: aes-256-gcm, password: 3f40bf3d-2f1e-4f43-bf54-e5fe742a3b4e, udp: true}
   - {name: 23-0054-AT, server: 77.110.110.240, port: 443, type: ss, cipher: aes-256-gcm, password: d70ef8b5-6048-4c0d-be4d-fc60399b0f45, udp: true}
   - {name: 23-0055-FR, server: 62.133.62.109, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: jifuR2NTM0Yt, udp: true}
+  - {name: 23-0058-DE, server: 57.129.24.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/linkvws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN"}, udp: true}
   - {name: 23-0060-JP, server: 160.16.123.124, port: 10087, type: ss, cipher: aes-128-gcm, password: !<str> 10086, udp: true}
   - {name: 23-0064-CH, server: 45.95.232.236, port: 4248, type: ss, cipher: chacha20-ietf-poly1305, password: PtHv4bO4jPtBsHWSl1n5Qd, udp: true}
   - {name: 23-0083-NL, server: 92.112.126.90, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true}
@@ -108,8 +108,6 @@ proxy-groups:
       - 测速9分组
       - 测速10分组
       - 05-0002-HK
-      - 05-0004-CN
-      - 05-0006-US
       - 05-0007-RELAY
       - 05-0012-DE
       - 05-0020-CH
@@ -119,6 +117,7 @@ proxy-groups:
       - 06-0030-RU
       - 06-0034-NL
       - 06-0036-SE
+      - 06-0037-US
       - 06-0038-US
       - 06-0039-US
       - 06-0040-US
@@ -138,6 +137,7 @@ proxy-groups:
       - 23-0053-AT
       - 23-0054-AT
       - 23-0055-FR
+      - 23-0058-DE
       - 23-0060-JP
       - 23-0064-CH
       - 23-0083-NL
@@ -228,7 +228,6 @@ proxy-groups:
     interval: 120
     tolerance: 100
     proxies:
-      - 05-0004-CN
       - 06-0034-NL
       - 06-0044-US
       - 23-0054-AT
@@ -249,7 +248,6 @@ proxy-groups:
     interval: 120
     tolerance: 100
     proxies:
-      - 05-0006-US
       - 06-0036-SE
   - name: 测速7分组
     type: url-test
@@ -259,6 +257,7 @@ proxy-groups:
     proxies:
       - 05-0007-RELAY
       - 06-0027-AU
+      - 06-0037-US
       - 08-0117-NO
       - 23-0087-NL
   - name: 测速8分组
@@ -270,6 +269,7 @@ proxy-groups:
       - 06-0028-SG
       - 06-0038-US
       - 08-0118-CO
+      - 23-0058-DE
       - 23-0098-LT
   - name: 测速9分组
     type: url-test
