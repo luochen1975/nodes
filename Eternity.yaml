@@ -232,6 +232,7 @@ proxies:
   - {name: 16-0376-RELAY, server: bluehost.com, port: 443, type: vmess, uuid: 12eed507-9a58-4ca5-f7af-2871e9aae684, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /19544, headers: {Host: bluehost.com}}, udp: true}
   - {name: 16-0377-HK, server: vn1.web3sp.com, port: 51069, type: ss, cipher: aes-128-gcm, password: I1qrYxOXxPYCOkhT, udp: true}
   - {name: 16-0378-HK, server: 103.243.26.209, port: 10086, type: vmess, uuid: c5ec2e3f-c058-46a8-a148-1831824bb94b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 17-0382-LT, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
   - {name: 17-0384-RELAY, server: creativecommons.org, port: 2053, type: trojan, password: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252Fyamtekodasayahhh", headers: {Host: kotlet.arshiacomplus.dpdns.org}}, udp: true}
   - {name: 17-0401-IN, server: 103.97.203.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA%252BgacgGV26Bvmu05%252BwZmRW/j%252BAdU%252BZ8Bt44%253D, udp: true}
   - {name: 17-0404-CR, server: 145.14.131.37, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA%252BgacgGV26Bvmu05%252BwZmRW/j%252BAdU%252BZ8Bt44%253D, udp: true}
@@ -641,8 +642,7 @@ proxies:
   - {name: _油管：全网最强白嫖 435, server: cdn01.122888.xyz, port: 26000, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: MGY2YzYxNDU0Lm1pY3Jvc29mdC5jb20, udp: true}
   - {name: _油管：全网最强白嫖 436, server: cdn01.122888.xyz, port: 26001, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: MGY2YzYxNDU0Lm1pY3Jvc29mdC5jb20, udp: true}
   - {name: _油管：全网最强白嫖 437, server: cdn01.122888.xyz, port: 26000, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: MGY2YzYxNDU0Lm1pY3Jvc29mdC5jb20, udp: true}
-  - {name: _油管：全网最强白嫖 99, server: 89.31.126.177, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 油管：全网最强白嫖 10, server: 103.173.255.21, port: 28000, type: trojan, password: 52a98419-efab-4c34-b4cc-4e2a7bc37029, sni: huayun.xyz, skip-cert-verify: true, udp: true}
+  - {name: 油管：全网最强白嫖, server: 103.173.255.228, port: 28000, type: trojan, password: 52a98419-efab-4c34-b4cc-4e2a7bc37029, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: 油管：全网最强白嫖 2, server: 103.173.255.228, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: 油管：全网最强白嫖 3, server: 103.173.255.127, port: 28000, type: trojan, password: 52a98419-efab-4c34-b4cc-4e2a7bc37029, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: 油管：全网最强白嫖 4, server: 103.173.255.21, port: 28000, type: trojan, password: 52a98419-efab-4c34-b4cc-4e2a7bc37029, sni: huayun.xyz, skip-cert-verify: true, udp: true}
@@ -847,6 +847,7 @@ proxy-groups:
       - 16-0376-RELAY
       - 16-0377-HK
       - 16-0378-HK
+      - 17-0382-LT
       - 17-0384-RELAY
       - 17-0401-IN
       - 17-0404-CR
@@ -1256,8 +1257,7 @@ proxy-groups:
       - _油管：全网最强白嫖 435
       - _油管：全网最强白嫖 436
       - _油管：全网最强白嫖 437
-      - _油管：全网最强白嫖 99
-      - 油管：全网最强白嫖 10
+      - 油管：全网最强白嫖
       - 油管：全网最强白嫖 2
       - 油管：全网最强白嫖 3
       - 油管：全网最强白嫖 4
@@ -1365,6 +1365,7 @@ proxy-groups:
       - 10-0322-VN
       - 10-0342-VN
       - 16-0372-CN
+      - 17-0382-LT
       - 17-0412-MA
       - 17-0422-NG
       - 17-0432-TW
