@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `598`
+高速节点数量: `599`
 <details>
   <summary>展开复制节点</summary>
 
@@ -242,6 +242,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#17-0438-BH
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#17-0440-NL
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#17-0442-NL
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#17-0445-KRtrojan%2F%2FD3OJA7xY5U%40209.200.246.5310785%3FallowInsecure%3D1%26sni%3Dcloudflare.com%2317-0391-CA
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#17-0446-DE
     ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#17-0450-JP
     vmess://eyJ2IjoiMiIsInBzIjoiX+ayueeuoe+8muWFqOe9keacgOW8uueZveWrliIsImFkZCI6IjYyNWhrMDEuZng2Njg4LnRvcCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3ZjRmZjJlMS1jMDhmLTM1YmQtYWZlNy00YTZhMzg2OTA3YWEiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiI2MjVoazAxLmZ4NjY4OC50b3AiLCJ0bHMiOiJ0bHMifQ==
